@@ -1,0 +1,6 @@
+../Core/Src/hw_pwm.c:6:6:hw_pwm_force_off	1
+../Core/Src/hw_pwm.c:14:19:hw_pwm_enable_outputs	12
+../Core/Src/hw_pwm.c:52:6:hw_pwm_init	10
+../Core/Src/hw_pwm.c:111:6:hw_pwm_set_precharge_duty	2
+../Core/Src/hw_pwm.c:122:6:hw_pwm_precharge	2
+../Core/Src/hw_pwm.c:131:6:hw_pwm_refresh_adc_trigger	1

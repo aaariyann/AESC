@@ -1,0 +1,5 @@
+../Core/Src/hw_adc.c:17:6:hw_adc_boot_init	24	static
+../Core/Src/hw_adc.c:52:6:hw_adc_start_calibration	8	static
+../Core/Src/hw_adc.c:72:6:hw_adc_isr	56	static
+../Core/Src/hw_adc.c:148:6:hw_adc_cal_done	4	static
+../Core/Src/hw_adc.c:153:6:hw_adc_regular_task	24	static

@@ -1,0 +1,3 @@
+../Core/Src/console.c:3:6:console_init	4	static
+../Core/Src/console.c:7:6:console_task	4	static
+../Core/Src/console.c:11:6:console_puts	16	static

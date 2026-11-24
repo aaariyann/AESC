@@ -1,0 +1,6 @@
+../Core/Src/fault.c:7:6:fault_boot_init	24	static
+../Core/Src/fault.c:60:6:fault_latch	16	static
+../Core/Src/fault.c:72:13:fault_get	4	static
+../Core/Src/fault.c:77:10:fault_led_code	4	static
+../Core/Src/fault.c:82:6:fault_led_task	24	static
+../Core/Src/fault.c:125:6:fault_iwdg_refresh	4	static
